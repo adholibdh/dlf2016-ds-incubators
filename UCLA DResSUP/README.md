@@ -5,6 +5,11 @@ This folder contains supporting materials for UCLA Library's DResSUP program for
 ###Description of DResSUP
 
 ###Materials included
-* 
+* Call for Partners
+* UCLA Library Internal Proposal
+* Partner Application
+* Sample Project
+* Graduate Student Job Description
+* 2016 Syllabus
 
 
