@@ -13,6 +13,7 @@ Included in this folder are three years' worth of funding proposals--including j
 * Three-year funding proposal
 * Call for proposals
 * Student proposal
+* Curriculum document
 
 ### 2015
 * Funding proposal
