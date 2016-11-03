@@ -10,15 +10,15 @@ The Digital Scholarship Incubator (DSI) at the University of Nebraska-Lincoln (U
 Included in this folder are three years' worth of funding proposals--including justification and budgets--and calls for proposals for the first three years of the DSI (2014, 2015, 2016). Also included is a student proposal from 2016, in order to give a sense of what the proposal process looks like from the student perspective. All documents are made available in both PDF and Markdown files.
 
 ### 2016
-* Three-year funding proposal
-* Call for proposals
-* Student proposal
-* Curriculum document
+* Three-year funding proposal [markdown](https://github.com/ADHOLibDH/ds.incubators/blob/master/UNL/2016-2018-funding-proposal.md)|[pdf](https://github.com/ADHOLibDH/ds.incubators/blob/master/UNL/2016-2018-funding-proposal.pdf)
+* Call for proposals [markdown](https://github.com/ADHOLibDH/ds.incubators/blob/master/UNL/2016-call-for-proposals.md)|[pdf](https://github.com/ADHOLibDH/ds.incubators/blob/master/UNL/2016-call-for-proposals.pdf)
+* Student proposal [markdown](https://github.com/ADHOLibDH/ds.incubators/blob/master/UNL/2016-student-proposal.md)|[pdf](https://github.com/ADHOLibDH/ds.incubators/blob/master/UNL/2016-student-proposal.pdf)
+* Curriculum document [markdown](https://github.com/ADHOLibDH/ds.incubators/blob/master/UNL/curriculum.md)|[pdf](https://github.com/ADHOLibDH/ds.incubators/blob/master/UNL/curriculum.pdf)
 
 ### 2015
-* Funding proposal
-* Call for proposals
+* Funding proposal [markdown](https://github.com/ADHOLibDH/ds.incubators/blob/master/UNL/2015-funding-proposal.md)|[pdf](https://github.com/ADHOLibDH/ds.incubators/blob/master/UNL/2015-funding-proposal.pdf)
+* Call for proposals [markdown](https://github.com/ADHOLibDH/ds.incubators/blob/master/UNL/2015-call-for-proposals.md)|[pdf](https://github.com/ADHOLibDH/ds.incubators/blob/master/UNL/2015-call-for-proposals.pdf)
 
 ### 2014
-* Funding proposal
-* Call for proposals
+* Funding proposal [markdown](https://github.com/ADHOLibDH/ds.incubators/blob/master/UNL/2014-funding-proposal.md)|[pdf](https://github.com/ADHOLibDH/ds.incubators/blob/master/UNL/2014-funding-proposal.pdf)
+* Call for proposals [markdown](https://github.com/ADHOLibDH/ds.incubators/blob/master/UNL/2014-call-for-proposals.md) | [pdf](https://github.com/ADHOLibDH/ds.incubators/blob/master/UNL/2014-call-for-proposals.pdf)
